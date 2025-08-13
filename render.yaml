@@ -1,2 +1,0 @@
-buildCommand: pip install --upgrade pip setuptools setuptools-pkg-resources && pip install -r requirements.txt
-startCommand: python 100.6_tactical_screener_helper_bot_telegram.py
