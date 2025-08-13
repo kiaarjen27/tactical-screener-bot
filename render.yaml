@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: tactical-screener-bot
-    env: python
-    plan: free
-    buildCommand: python3 -m pip install --upgrade pip setuptools && python3 -m pip install -r requirements.txt
-    startCommand: python3 TacticalScreenerHelperBotTelegram.py
-    pythonVersion: 3.10
