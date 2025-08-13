@@ -1,0 +1,5 @@
+setuptools
+pandas_ta
+yfinance
+requests
+pandas
