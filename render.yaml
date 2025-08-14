@@ -1,0 +1,7 @@
+services: 
+  - type: web 
+    name: tactical-screener-bot 
+    env: python 
+    buildCommand: pip install -r requirements.txt 
+    startCommand: python TacticalScreenerHelperBotTelegram.py 
+    pythonVersion: 3.11.9 
