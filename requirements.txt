@@ -3,10 +3,4 @@ uvloop==0.17.0
 cryptography==39.0.1
 scipy>=1.10.0
 numpy==1.25.2
-pandas==1.5.3
-pandas_ta==0.3.14b0
-yfinance==0.2.65
-requests==2.32.4
-peewee==3.18.2
-curl_cffi==0.13.0
-beautifulsoup4==4.13.4
+requests
