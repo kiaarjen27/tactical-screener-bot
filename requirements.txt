@@ -1,6 +1,12 @@
-setuptools>=65.5.0
-uvloop==0.17.0
-cryptography==39.0.1
-scipy>=1.10.0
-numpy==1.25.2
+setuptools
+uvloop
+cryptography
+scipy
+numpy
+pandas
+pandas_ta
+yfinance
 requests
+peewee
+curl_cffi
+beautifulsoup4
